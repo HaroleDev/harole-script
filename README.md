@@ -1,10 +1,4 @@
-# Harole Script
 
-Harole's handwriting as a usuable (but limited) font.
-
-## Families
-
-Young - My first attempt on handwriting digitization as a font made in [Microsoft Font Maker](https://apps.microsoft.com/store/detail/microsoft-font-maker/9N9209F8S3VC).
 
 # Harole Script
 
